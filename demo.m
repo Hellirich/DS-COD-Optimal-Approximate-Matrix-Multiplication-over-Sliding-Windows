@@ -1,7 +1,7 @@
 clear;
 warning('off', 'all');
 
-dataset = 'syn_uni.mat';
+dataset = 'apr_demo.mat';
 load(dataset);
 
 [L_estimate, R_estimate] = checkR(X, Y);
