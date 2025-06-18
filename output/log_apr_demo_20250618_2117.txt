@@ -1,0 +1,13 @@
+Dataset: apr_demo.mat | X: 300×23235, Y: 500×23235, N = 4000, R = 514.975728, L_estimate = 4.000000, R_estimate = 64.000000
+hDS-COD, l=10, maxsize 485.000000, avg_error 0.034372, max_error 0.039629, memory 1.854218, update 0.003857, query 0.000643
+hDS-COD, l=25, maxsize 1269.000000, avg_error 0.011582, max_error 0.012638, memory 5.212982, update 0.008345, query 0.001153
+hDS-COD, l=40, maxsize 2075.000000, avg_error 0.005810, max_error 0.006244, memory 10.606369, update 0.014474, query 0.000447
+aDS-COD, l=10, maxsize 110.000000, avg_error 0.033831, max_error 0.040433, memory 0.458084, update 0.001176, query 0.000144
+aDS-COD, l=25, maxsize 292.000000, avg_error 0.011637, max_error 0.012471, memory 1.822098, update 0.002422, query 0.000488
+aDS-COD, l=40, maxsize 488.000000, avg_error 0.005819, max_error 0.006194, memory 3.536667, update 0.004443, query 0.003313
+EH-COD, l=10, maxsize 752.000000, avg_error 0.027234, max_error 0.038140, memory 2.349236, update 0.000730, query 0.009108
+EH-COD, l=25, maxsize 2868.000000, avg_error 0.010752, max_error 0.013676, memory 8.844704, update 0.000567, query 0.058052
+EH-COD, l=40, maxsize 5308.000000, avg_error 0.006181, max_error 0.007091, memory 16.324791, update 0.000484, query 0.152259
+DI-COD, level=5, maxsize 1040.000000, avg_error 0.223022, max_error 0.322825, memory 3.189377, update 0.002759, query 0.000166
+DI-COD, level=13, maxsize 2120.000000, avg_error 0.137855, max_error 0.216142, memory 6.495140, update 0.004332, query 0.000107
+DI-COD, level=29, maxsize 4312.000000, avg_error 0.079677, max_error 0.127595, memory 13.203186, update 0.006396, query 0.000111
